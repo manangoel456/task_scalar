@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/newdb",
+  "jwtSecret": "my_super_secret_key"
+}
